@@ -1,8 +1,12 @@
 # 100-days-of-py
 my 100 days of python excercises
 
-d1: band generator
-
-d2: bmi calculator, life in weeks, tip calculator
-
-d3: ticket
+D1 V
+D2 V
+D3 V 
+D4 
+D5 
+D6 
+D7 
+D8
+D9
