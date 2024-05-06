@@ -125,7 +125,7 @@ while not end:
     print(f"the letter {guess} is not in the word")
     status()
     if lives == 0:
-       end == True
+       end = True
        print("you loose")
   print(display)
   if "_" not in display:
