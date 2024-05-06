@@ -17,4 +17,4 @@ for number in range(1, nr_numbers +1):
 
 
 print(password)
-print(pass_shuff)
+#print(pass_shuff)
