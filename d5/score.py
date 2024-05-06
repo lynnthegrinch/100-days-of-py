@@ -6,5 +6,5 @@ print(student_scores)
 h_s = 0
 for score in student_scores:
   if score > h_s:
-  h_s = score
+   h_s = score
 print(f"The highest score in the class is: {h_s}")
