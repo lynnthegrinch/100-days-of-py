@@ -106,7 +106,7 @@ intro()
 setup()
 end = False
 while not end:
-  guess = input("guess the a letter\n").lower()
+  guess = input("guess a letter\n").lower()
   #check for repeated letters
   if guess in display:
      print(f"you have already tried {guess}")
